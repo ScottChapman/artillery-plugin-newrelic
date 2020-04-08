@@ -1,0 +1,11 @@
+{
+  "name": "artillery-plugin-newrelic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ScottChapman/artillery-plugin-newrelic.git",
+  "author": "Scott Chapman <scottchapman@us.ibm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
